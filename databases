@@ -1,0 +1,5 @@
+https://diaad.s3.sa-east-1.amazonaws.com/sim/Mortalidade_Geral_2019.csv mortalidade_geral_2019.csv
+https://diaad.s3.sa-east-1.amazonaws.com/sim/Mortalidade_Geral_2020.csv mortalidade_geral_2020.csv
+https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SIM/Mortalidade_Geral_2021.csv mortalidade_geral_2021.csv
+https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SIM/DO22OPEN.csv mortalidade_geral_2022.csv
+https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SIM/DO23OPEN.csv mortalidade_geral_2023.csv
